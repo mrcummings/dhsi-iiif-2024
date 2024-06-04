@@ -3,12 +3,2521 @@
     "http://www.w3.org/ns/anno.jsonld",
     "http://iiif.io/api/presentation/3/context.json"
   ],
-  "id": "https://dnoneill.github.io/dhsi-iiif-2024/index.json",
+  "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json",
   "type": "Manifest",
-  "items": [],
+  "items": [
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/0",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/0/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_001.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 900,
+                "height": 611,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/0"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 900,
+      "height": 611,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/1",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/1/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_002.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 919,
+                "height": 611,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/1"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 919,
+      "height": 611,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/2",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/2/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/2/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_003.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 919,
+                "height": 611,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/2"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 919,
+      "height": 611,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/3",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/3/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/3/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_004.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 900,
+                "height": 612,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/3"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 900,
+      "height": 612,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/4",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/4/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/4/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_005.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 919,
+                "height": 609,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/4"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 919,
+      "height": 609,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/5",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/5/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/5/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_006.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 916,
+                "height": 568,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/5"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 916,
+      "height": 568,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/6",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/6/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/6/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_007.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 921,
+                "height": 609,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/6"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 921,
+      "height": 609,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/7",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/7/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/7/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_008.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 919,
+                "height": 612,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/7"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 919,
+      "height": 612,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/8",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/8/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/8/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_009.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 900,
+                "height": 568,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/8"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 900,
+      "height": 568,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/9",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/9/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/9/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_010.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 900,
+                "height": 607,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/9"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 900,
+      "height": 607,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/10",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/10/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/10/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_011.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 919,
+                "height": 568,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/10"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 919,
+      "height": 568,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/11",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/11/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/11/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_012.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 900,
+                "height": 607,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/11"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 900,
+      "height": 607,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/12",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/12/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/12/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_013.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 919,
+                "height": 604,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/12"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 919,
+      "height": 604,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/13",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/13/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/13/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_014.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 916,
+                "height": 607,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/13"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 916,
+      "height": 607,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/14",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/14/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/14/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_015.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 921,
+                "height": 607,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/14"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 921,
+      "height": 607,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/15",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/15/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/15/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_016.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 921,
+                "height": 609,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/15"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 921,
+      "height": 609,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/16",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/16/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/16/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_017.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 919,
+                "height": 609,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/16"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 919,
+      "height": 609,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/17",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/17/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/17/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_018.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 919,
+                "height": 609,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/17"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 919,
+      "height": 609,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/18",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/18/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/18/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_019.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 919,
+                "height": 609,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/18"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 919,
+      "height": 609,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/19",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/19/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/19/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_020.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 919,
+                "height": 609,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/19"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 919,
+      "height": 609,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/20",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/20/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/20/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_021.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 919,
+                "height": 607,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/20"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 919,
+      "height": 607,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/21",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/21/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/21/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_022.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 900,
+                "height": 607,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/21"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 900,
+      "height": 607,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/22",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/22/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/22/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_023.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 919,
+                "height": 607,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/22"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 919,
+      "height": 607,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/23",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/23/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/23/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_024.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 919,
+                "height": 607,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/23"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 919,
+      "height": 607,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/24",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/24/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/24/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_025.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 919,
+                "height": 607,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/24"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 919,
+      "height": 607,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/25",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/25/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/25/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_026.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 900,
+                "height": 568,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/25"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 900,
+      "height": 568,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/26",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/26/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/26/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_027.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 916,
+                "height": 607,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/26"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 916,
+      "height": 607,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/27",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/27/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/27/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_028.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 900,
+                "height": 568,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/27"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 900,
+      "height": 568,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/28",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/28/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/28/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_029.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 900,
+                "height": 568,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/28"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 900,
+      "height": 568,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/29",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/29/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/29/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_030.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 900,
+                "height": 568,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/29"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 900,
+      "height": 568,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/30",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/30/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/30/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_031.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 900,
+                "height": 609,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/30"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 900,
+      "height": 609,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/31",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/31/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/31/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_032.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 919,
+                "height": 609,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/31"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 919,
+      "height": 609,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/32",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/32/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/32/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_033.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 911,
+                "height": 568,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/32"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 911,
+      "height": 568,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/33",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/33/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/33/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_034.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 900,
+                "height": 609,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/33"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 900,
+      "height": 609,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/34",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/34/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/34/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_035.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 900,
+                "height": 611,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/34"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 900,
+      "height": 611,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/35",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/35/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/35/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_036.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 916,
+                "height": 609,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/35"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 916,
+      "height": 609,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/36",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/36/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/36/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_037.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 919,
+                "height": 609,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/36"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 919,
+      "height": 609,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/37",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/37/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/37/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_038.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 919,
+                "height": 607,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/37"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 919,
+      "height": 607,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/38",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/38/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/38/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_039.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 945,
+                "height": 609,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/38"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 945,
+      "height": 609,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/39",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/39/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/39/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_040.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 950,
+                "height": 609,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/39"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 950,
+      "height": 609,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/40",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/40/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/40/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_041.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 916,
+                "height": 607,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/40"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 916,
+      "height": 607,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/41",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/41/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/41/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_042.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 916,
+                "height": 609,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/41"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 916,
+      "height": 609,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/42",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/42/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/42/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_043.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 916,
+                "height": 609,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/42"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 916,
+      "height": 609,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/43",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/43/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/43/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_044.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 943,
+                "height": 609,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/43"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 943,
+      "height": 609,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/44",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/44/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/44/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_045.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 921,
+                "height": 607,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/44"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 921,
+      "height": 607,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/45",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/45/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/45/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_046.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 900,
+                "height": 568,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/45"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 900,
+      "height": 568,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/46",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/46/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/46/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_047.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 900,
+                "height": 568,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/46"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 900,
+      "height": 568,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/47",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/47/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/47/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_048.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 955,
+                "height": 638,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/47"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 955,
+      "height": 638,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/48",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/48/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/48/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_049.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 945,
+                "height": 638,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/48"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 945,
+      "height": 638,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/49",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/49/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/49/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mrcummings.github.io/dhsi-iiif-2024/1957-06_050.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 900,
+                "height": 568,
+                "service": [
+                  {
+                    "@id": "https://mrcummings.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://mrcummings.github.io/dhsi-iiif-2024/index.json/canvas/49"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "width": 900,
+      "height": 568,
+      "thumbnail": [
+        {
+          "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    }
+  ],
   "label": {
     "@none": [
-      "images"
+      "DHSI Manifest"
     ]
-  }
+  },
+  "attribution": "Michael Cummings",
+  "description": "DHSI demo",
+  "thumbnail": [
+    {
+      "id": "https://mrcummings.github.io/dhsi-iiif-2024/thumb.jpg",
+      "type": "Image"
+    }
+  ]
 }
